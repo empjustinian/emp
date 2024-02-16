@@ -9,5 +9,3 @@ Welcome!
 
 <h2 style="color:yellow;">Q: What is this simple website for?</h2>
     <p>This is the introduction page, and this website will be the record of my UCI writing class reflection.</p>
-</body>
-</html>
