@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
+<title>Page Title</Welcome to my first python page>
 </head>
 <body>
 
