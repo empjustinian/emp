@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome!</title>
+<title>Welcome!</title>
 </head>
 <body>
     <h1 style="color:red;">This is officially my first python page.</h1>
